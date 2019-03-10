@@ -1,0 +1,22 @@
+attendence below 50
+
+kt > 3
+
+sice avg or poor
+
+distance > 50
+
+ut < 60
+
+any 3 = drop 
+
+-----------------------
+
+kt > 5 = drop 
+
+-------------------
+
+ut < 40 = drop
+
+---------------
+
